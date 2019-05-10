@@ -1,9 +1,6 @@
-datetime
-math
 matplotlib
 mpl_toolkits
 numpy
-os
 pandas
 pandas_datareader
 plotly
@@ -12,5 +9,4 @@ scipy
 seaborn
 statsmodels
 tushare
-warnings
 xlrd
